@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "atelier-calculatrice",
+  "description": "Calculatrice en JavaScript",
+  "author": "William Malbos",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
